@@ -5,6 +5,6 @@ The final project includes the development of the front end of a website that wo
 
 Storage is based on IndexedDB.
 
-Screenshots
+Screenshots:
 =====================
 ![paint software](all.png)
