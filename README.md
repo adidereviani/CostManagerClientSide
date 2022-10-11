@@ -1,4 +1,4 @@
-Cost Manager Front End
+Cost Manager Client Side
 =====================
 
 The final project includes the development of the front end of a website that works as a cost manager application.
